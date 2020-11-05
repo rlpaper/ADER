@@ -22,5 +22,3 @@ sh run.sh
 # Example: To train an agent for HalfCheetah-v1 game with the random seed
 python train.py --env HalfCheetah-v1 --seed 1
 ```
-
-Hyper-parameters can be modified with different arguments to train.py.
